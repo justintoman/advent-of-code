@@ -1,3 +1,5 @@
-export * from "./01";
-export * from "./02";
-export * from "./03";
+import "./01";
+import "./02";
+import "./03";
+
+export { run } from "./2024";
